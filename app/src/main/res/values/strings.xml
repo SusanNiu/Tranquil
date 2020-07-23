@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Tranquil</string>
+    <string name="app_name">Profile UI</string>
+
+    <string name="tranquil">\@hafsamuhammad</string>
 </resources>
